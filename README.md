@@ -1,17 +1,21 @@
 # Awesome Kurdish
 
-(last updated on 04/03/2024)
+(last updated on 14/07/2025)
 
-**A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
+**A curated list of awesome resources, tools and scientific papers for Kurdish language technology (and its related varieties)**
 
 Although I do my best to keep this page as comprehensive as possible by including all projects, the list may not include all the fantastic small and big projects regarding Kurdish language processing. Please be kind and notify me by reaching out by email or through our community on [Gitter](https://gitter.im/KurdishNLP/community).
 
 Are you interested in contributing to Kurdish language processing? Check out [this post](https://sinaahmadi.github.io/klpt/about/contributing/) to see how you can do so.
 
 ## News 🎉
-### March 2023
+
+
+### 2025
+- Exciting news! Parallel and speech corpora now available for Southern Kurdish, Laki Kurdish, Hawrami and Zazaki!
+
+### 2023
 - A few datasets are added for automatic speech recognition and Central Kurdish dialect identification and translation
-### April 2023
 - A few datasets are added for emotion analysis, summarization and news headline classification 
 - Two projects are released for **language identification** of Zaza-Gorani and Kurdish langauges. 
 - A benchmark is released for sentiment analysis of Central Kurdish.
@@ -48,6 +52,8 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - A [parallel corpus](https://github.com/mihemmed/Kurdish-Machine-Translation-Project-KMTP-) of Sorani-English text
 - [FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores) (Sorani)
 - [AsoSoft Speech Corpus for Central-Kurdish Text-To-Speech](https://github.com/AsoSoft/AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish) (Sorani)
+- [PARME](https://github.com/DOLMA-NLP/PARME) (Hawrami, Zazaki, Southern Kurdish, Laki Kurdish)
+- [bitext-mining](https://github.com/DOLMA-NLP/bitext-mining) (Hawrami, Southern Kurdish, Laki Kurdish)
 
 #### Dictionaries, terminologies and ontologies
 Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
@@ -84,6 +90,8 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [KASET - Kurmanji and Sorani Kurdish Speech and Transcripts](https://catalog.ldc.upenn.edu/LDC2024S01)
 - [Whisper model on Central Kurdish](https://github.com/Hrazhan/whisper-kurdish)
 - [Kurdish spoken dialect recognition using x-vector speaker embedding](https://github.com/ArashAmani/Kurdish-Dialect-Recognition) (Northern, Central, Southern Kurdish, Hawrami &    Zazaki)
+- [DOLMA Speech corpora](https://github.com/DOLMA-NLP/asr) (Hawrami, Southern Kurdish, Laki Kurdish & Zazaki)
+
 
 ### Benchmarks
 - Morphological analysis:
